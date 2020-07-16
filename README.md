@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### de-community
  *개방형OS 사용자 중심의 전문지식 민주화 플랫폼*
 유기적 컨텐츠 관리를 위한 Voting, 컨텐츠 Tagging, 기존 컨텐츠와 관련성을 유지하는 편집구조, 게이미피케이션을 적용한 Badges, 실력에 기반한 평판 시스템 Karma 등의 기능이 제공되어 개방형OS 사용자와 개방형OS 기술지원기업이 공생할 수 있는 공개SW 커뮤니티.
@@ -26,7 +25,6 @@
 # 참여방법
 [링크](https://github.com/hamonikr/democratization-expertise/blob/master/CONTRIBUTING.md)
 
-=======
 # __개방형OS 사용자 중심의 전문지식 민주화 플랫폼(Democratization of Expertise)__
 
 # **목차**
