@@ -14,8 +14,7 @@ forks](https://img.shields.io/github/forks/hamonikr/democratization-expertise?st
 issues](https://img.shields.io/github/issues/hamonikr/democratization-expertise?style=social)
 
 
-   
-   
+  
    
 
 
