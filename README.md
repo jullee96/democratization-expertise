@@ -11,11 +11,7 @@ stars](https://img.shields.io/github/stars/hamonikr/democratization-expertise?st
 ![GitHub
 forks](https://img.shields.io/github/forks/hamonikr/democratization-expertise?style=social)
 ![GitHub
-issues](https://img.shields.io/github/issues/hamonikr/democratization-expertise?style=social)
-
-
-s
-
+issues](https://img.shields.io/github/issues/hamonikr/democratization-expertise?style=social
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
